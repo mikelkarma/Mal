@@ -14,9 +14,9 @@ Este é um programa simples em C que percorre uma pasta e suas subpastas, envian
 
 Para compilar o programa, execute o seguinte comando no terminal:
 
-```
-gcc -o send_files send_files.c -lcurl
 
+gcc -march=arquitetura -o send_files send_files.c -lcurl
+```
 
 ## Uso
 
