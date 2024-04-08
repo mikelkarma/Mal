@@ -57,9 +57,4 @@ if ($_FILES['file']['error'] === UPLOAD_ERR_OK) {
 
 Certifique-se de ajustar o caminho para o diretório onde deseja salvar os arquivos.
 
-## Licença
 
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
-```
-
-Você pode adicionar este arquivo `README.md` ao seu repositório no GitHub e também incluir o código-fonte `send_files.c` e o script PHP para receber os arquivos. Certifique-se de ajustar o conteúdo do README.md e do script PHP conforme necessário para o seu caso de uso específico.
